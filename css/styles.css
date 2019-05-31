@@ -55,12 +55,18 @@ a {
   color: inherit;
   text-decoration: underline;
   text-decoration-style: dotted;
+  text-decoration-color: #00ffcc;
 }
 
 a:hover {
   color: inherit;
   text-decoration: underline;
   text-decoration-style: solid;
+  text-decoration-color: #00ffcc;
+}
+
+a img:hover {
+  opacity: 0.5;
 }
 
 .card {
