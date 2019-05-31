@@ -6,7 +6,7 @@
 
 ## Description
 
-_This web page is the result of an independent project completed at the end of my first week at Epicodus. It tells anyone else interested in learning about me what my background is, what brought me to programming, and what kind of projects I h ave been working on. I intend to continue to update it as I work on more and more involved projects._
+_This web page is the result of an independent project completed at the end of my first week at Epicodus. It tells anyone else interested in learning about me what my background is, what brought me to programming, and what kind of projects I have been working on. I intend to continue to update it as I work on more and more involved projects._
 
 ## Setup/Installation Requirements
 
@@ -15,7 +15,7 @@ _This web page is the result of an independent project completed at the end of m
 
 ## Known Bugs
 
-_The HMTL tag <strong> does not seem to have any effect on the text._
+_The HMTL tag "<strong>" does not seem to have any effect on the text._
 
 ## Support and contact details
 
