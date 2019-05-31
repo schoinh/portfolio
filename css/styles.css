@@ -1,3 +1,13 @@
+body {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.container {
+  background: rgba(255,255,255,0.5)
+}
+
 img {
   margin: 10px;
 }
@@ -11,4 +21,12 @@ img {
 
 a {
   color: inherit;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+a:hover {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-style: solid;
 }
