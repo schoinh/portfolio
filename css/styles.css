@@ -2,7 +2,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  font-family: 'Lato', sans-serif;
+  font-family: 'IBM Plex Serif', serif;
 }
 
 .container {
@@ -14,12 +14,13 @@ body {
   padding: 25px;
 }
 
-h1{
-  font-family: 'Cabin Sketch', sans-serif;
+.heading {
+  font-family: 'Lato', sans-serif;
 }
 
 .jumbotron h1 {
-  font-size: 60px;
+  font-size: 52px;
+  letter-spacing: 3px;
 }
 
 .row {
