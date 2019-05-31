@@ -1,0 +1,14 @@
+img {
+  margin: 10px;
+}
+
+#headshot {
+  width: 200px;
+  float: left;
+  margin-top: 0px;
+  margin-left: 10px;
+}
+
+a {
+  color: inherit;
+}
