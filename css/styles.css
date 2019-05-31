@@ -34,8 +34,6 @@ body {
 
 img {
   margin: 10px;
-  width: 150px;
-
 }
 
 img.key {
@@ -55,4 +53,14 @@ a:hover {
   color: inherit;
   text-decoration: underline;
   text-decoration-style: solid;
+}
+
+.project-text {
+  padding: 10px;
+}
+
+.project-name {
+  font-size: 24px;
+  font-weight: bold;
+  font-family: 'Lato', sans-serif;
 }
