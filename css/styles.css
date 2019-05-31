@@ -8,6 +8,15 @@ body {
   background: rgba(255,255,255,0.5)
 }
 
+.row {
+  margin-left: 50px;
+  margin-right: 75px;
+}
+
+.indent {
+  margin-left: 20px;
+}
+
 img {
   margin: 10px;
 }
@@ -16,7 +25,7 @@ img {
   width: 200px;
   float: left;
   margin-top: 0px;
-  margin-left: 10px;
+  margin-left: 0px;
 }
 
 a {
