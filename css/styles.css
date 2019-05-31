@@ -35,6 +35,11 @@ body {
   margin-left: 20px;
 }
 
+.hazy {
+  color: gray;
+  font-size: 14px;
+}
+
 img {
   margin: 10px;
 }
