@@ -15,7 +15,7 @@ _This web page is the result of an independent project completed at the end of m
 
 ## Known Bugs
 
-_The HMTL tag "<strong>" does not seem to have any effect on the text._
+_The HMTL tag strong does not seem to have any effect on the text._
 
 ## Support and contact details
 
@@ -29,4 +29,4 @@ _HTML, CSS, Bootstrap_
 
 *GNU GPLv3*
 
-Copyright (c) 2019 **_Na Hyung Choi**_
+Copyright (c) 2019 **Na Hyung Choi**
