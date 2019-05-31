@@ -3,6 +3,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   font-family: 'IBM Plex Serif', serif;
+  text-align: justify;
 }
 
 .container {
@@ -51,10 +52,17 @@ img.key {
   margin-left: 0px;
 }
 
+img.other {
+  width: 200px;
+  float: right;
+  margin-top: 0px;
+  margin-right: 0px;
+}
+
 a {
   color: inherit;
   text-decoration: underline;
-  text-decoration-style: dotted;
+  text-decoration-style: double;
   text-decoration-color: #00ffcc;
 }
 
