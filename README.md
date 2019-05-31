@@ -29,4 +29,4 @@ _HTML, CSS, Bootstrap_
 
 *GNU GPLv3*
 
-Copyright (c) 2019 **_Na Hyung Choi_**_
+Copyright (c) 2019 **_Na Hyung Choi**_
