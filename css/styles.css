@@ -58,6 +58,10 @@ a:hover {
   text-decoration-style: solid;
 }
 
+.card {
+  background-color: whitesmoke;
+}
+
 .project-text {
   padding: 10px;
 }
