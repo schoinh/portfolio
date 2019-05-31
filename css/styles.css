@@ -12,6 +12,9 @@ body {
 .jumbotron {
   text-align: center;
   padding: 25px;
+  background-color: transparent;
+  border-bottom: 3px solid black;
+  border-radius: 0rem;
 }
 
 .heading {
