@@ -91,6 +91,15 @@ img.key {
   margin-right: 20px;
 }
 
+img.key:hover {
+  width: 200px;
+  float: left;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 20px;
+  opacity: 1;
+}
+
 img.other {
   width: 200px;
   float: right;
@@ -118,6 +127,7 @@ a img:hover {
 
 .card {
   background-color: whitesmoke;
+  border-radius: 0px;
 }
 
 .project-text {
@@ -145,4 +155,8 @@ a img:hover {
 footer.hazy {
   text-align: center;
   font-family: 'Lato', sans-serif;
+}
+
+.source-code {
+  width: 24px;
 }
