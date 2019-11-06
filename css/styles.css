@@ -141,9 +141,9 @@ a img:hover {
 }
 
 .language {
+  font-family: 'Lato', sans-serif;
   font-size: 12px;
   font-style: italic;
-  font-weight: bold;
 }
 
 #first-words {
