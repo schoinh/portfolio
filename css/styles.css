@@ -79,6 +79,15 @@ body {
   font-size: 14px;
 }
 
+.alert {
+  border-radius: 0px;
+  border-width: 0px;
+  width: 100%;
+  text-align: center;
+  margin-top: 2em;
+  display: block;
+}
+
 img {
   margin: 10px;
 }

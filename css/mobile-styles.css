@@ -6,6 +6,21 @@ body {
   text-align: justify;
 }
 
+.col-lg-12 {
+  width: auto;
+  padding-right: 0px;
+}
+
+.alert {
+  border-radius: 0px;
+  border-width: 0px;
+  width: 100%;
+  text-align: center;
+  margin-top: 2em;
+  display: block;
+  margin-left: 15px;
+}
+
 .container {
   background: rgba(255,255,255,0.7);
 }
@@ -29,7 +44,6 @@ h5.hazy{
 .heading {
   font-family: 'Lato', sans-serif;
   font-size: 1.5em;
-  text-align: center;
 }
 
 .jumbotron h1 {
@@ -76,12 +90,8 @@ h5.hazy{
 }
 
 .row {
-  margin-left: 50px;
-  margin-right: 75px;
-}
-
-.indent {
   margin-left: 20px;
+  margin-right: 50px;
 }
 
 .hazy {
@@ -95,26 +105,15 @@ img {
 
 img.key {
   width: 200px;
-  float: left;
   margin-top: 0px;
-  margin-left: 0px;
-  margin-right: 20px;
+  margin-left: 15px;
 }
 
 img.key:hover {
   width: 200px;
-  float: left;
   margin-top: 0px;
-  margin-left: 0px;
-  margin-right: 20px;
   opacity: 1;
-}
-
-img.other {
-  width: 200px;
-  float: right;
-  margin-top: 0px;
-  margin-right: 0px;
+  margin-left: 15px;
 }
 
 a {
