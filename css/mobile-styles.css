@@ -109,6 +109,12 @@ img.key {
   margin-left: 15px;
 }
 
+#headshot {
+  border-style: solid;
+  border-width: 1px;
+  border-color: gray;
+}
+
 img.key:hover {
   width: 200px;
   margin-top: 0px;
