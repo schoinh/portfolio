@@ -44,6 +44,7 @@ body {
   margin-left: 3px;
   margin-right: 3px;
   opacity: 1;
+  transition: 200ms;
 }
 
 #lightswim {
@@ -63,6 +64,7 @@ body {
   margin-left: 3px;
   margin-right: 3px;
   opacity: 1;
+  transition: 200ms;
 }
 
 .row {
