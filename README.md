@@ -12,6 +12,7 @@ _This web page is the result of an independent project completed at the end of m
 
 * _Clone the repository to your desktop to view the .html file_
 * _OR view the web page at http://schoinh.github.io/portfolio_
+* To set up custom domain, go to GitHub Settings -> Pages -> enter domain nahyungchoi.com into Custom Domain.
 
 ## Known Bugs
 
